@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+Name=SRB2 Uncapped Revengeance
+Exec=uncapped-revengeance -opengl
+Icon=srb2
+Terminal=false
+Categories=Game;
